@@ -4,6 +4,7 @@
   "description": "test_be_bri_life",
   "main": "src/main.js",
   "scripts": {
+    "dev": "node src/main.js",
     "test": "jest -i"
   },
   "jest": {

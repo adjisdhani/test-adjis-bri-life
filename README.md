@@ -36,6 +36,18 @@ Adjust the database name that is in the .env.sample file
 npx prisma migrate dev
 ```
 
+### 6. Run the Server
+
+```sh
+npm run dev
+```
+
+### 7. Run the Test
+
+```sh
+npm run test
+```
+
 ## API Testing using Postman
 
 To test the API, use Postman and set the Token header to a valid token from the database.
